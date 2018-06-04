@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: 'HelveticaNeueRegular';
+    src: url('fonts/HelveticaNeueRegular/HelveticaNeueRegular.eot?#iefix') format('embedded-opentype'),  url('fonts/HelveticaNeueRegular/HelveticaNeueRegular.woff') format('woff'), url('fonts/HelveticaNeueRegular/HelveticaNeueRegular.ttf')  format('truetype'), url('fonts/HelveticaNeueRegular/HelveticaNeueRegular.svg#HelveticaNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'NexaBold';
+    src: url('fonts/NexaBold/NexaBold.eot?#iefix') format('embedded-opentype'),  url('fonts/NexaBold/NexaBold.otf')  format('opentype'),
+           url('fonts/NexaBold/NexaBold.woff') format('woff'), url('fonts/NexaBold/NexaBold.ttf')  format('truetype'), url('fonts/NexaBold/NexaBold.svg#NexaBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
